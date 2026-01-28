@@ -57,3 +57,11 @@ An interactive interface is created using **Gradio**, allowing users to:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/News-Category-Predictor.git
+2.Navigate to the project directory:
+   cd News-Category-Predictor
+3.Install the required dependencies:
+   pip install -r requirements.txt
+4.Open the Jupyter Notebook:
+  news_category_predictor.ipynb
+5.Run all cells in the notebook.
+6.The Gradio interface will launch for interactive predictions.
